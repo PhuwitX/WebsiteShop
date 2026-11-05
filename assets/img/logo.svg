@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="PhuwitShop">
+  <rect width="120" height="120" rx="28" fill="#c6ff3d"/>
+  <path d="M34 28h32c14.4 0 24 8.6 24 22s-9.6 22-24 22H50v20H34V28zm16 15v14h14.5c5.6 0 9.1-2.7 9.1-7s-3.5-7-9.1-7H50z" fill="#0a0a0d" fill-rule="evenodd"/>
+  <path d="M92 70v26M79 83h26" stroke="#ff4d6d" stroke-width="9" stroke-linecap="round"/>
+</svg>
